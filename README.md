@@ -27,7 +27,7 @@ interativos via Chart.js.
 └── README.md
 ```
 
-## Instalação na Hostinger
+## Instalação no Servidor
 
 1. **Crie o banco de dados MySQL** no hPanel da Hostinger.
 2. **Copie o modelo de configuração:**
