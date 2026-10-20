@@ -1,0 +1,13 @@
+# Credenciais e configurações sensíveis
+config.php
+
+# Arquivos de sistema / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Logs
+*.log
