@@ -27,14 +27,14 @@ interativos via Chart.js.
 └── README.md
 ```
 #DATABASE
-
+```
 CREATE TABLE IF NOT EXISTS ping_hosts (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
     host VARCHAR(255) NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
+```
 ## Instalação no Servidor
 
 1. **Crie o banco de dados MySQL** no hPanel da Hostinger.
